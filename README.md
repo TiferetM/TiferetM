@@ -35,7 +35,7 @@ https://github.com/TiferetM/dotNet5784_0825_4210
 
 ## 🌐 Connect with Me
 - 💼 [LinkedIn]https://www.linkedin.com/in/tiferet-maimon/?originalSubdomain=il
-- 📧 [Email](tiferetmaimon@gmail.com)
+- 📧 [Email](tiferetmaimon@gmail.com
 
 ---
 
