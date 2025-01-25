@@ -12,9 +12,8 @@ I'm a Computer Science graduate and a passionate Full-Stack Developer, combining
 Description: A Full-Stack application to help users plan their travels by providing real-time weather updates and route suggestions.
 Technologies: React, Node.js, Express, MongoDB, OpenWeatherMap API.
 Features: User authentication, map integration, and dynamic weather updates.
-View Project
 
-https://github.com/TiferetM/generate-trips
+View Project https://github.com/TiferetM/generate-trips
 
 
 🛠️ C# Task and Employee Management System
@@ -24,8 +23,7 @@ Features:
 Manage employee profiles and schedules.
 Assign, track, and organize tasks.
 Generate detailed reports on progress and performance.
-View Project
-https://github.com/TiferetM/dotNet5784_0825_4210
+View Project https://github.com/TiferetM/dotNet5784_0825_4210
 
 🏠 D HOME – 3D Social Network for Architects
 Description: A platform for architects to share and explore 3D designs interactively, fostering collaboration and creativity.
@@ -34,10 +32,7 @@ Features:
 Upload and view interactive 3D designs.
 Personalized user profiles for showcasing projects.
 Dynamic search and collaboration tools.
-
-
-View Project
-https://github.com/TiferetM/FullStackPRJ/tree/main
+View Project https://github.com/TiferetM/FullStackPRJ/tree/main
 
 🌐 Connect with Me
 💼 LinkedIn: https://www.linkedin.com/in/tiferet-maimon/?originalSubdomain=il
