@@ -13,24 +13,31 @@ Description: A Full-Stack application to help users plan their travels by provid
 Technologies: React, Node.js, Express, MongoDB, OpenWeatherMap API.
 Features: User authentication, map integration, and dynamic weather updates.
 View Project
-🛠️ C# Inventory Management System
+
+https://github.com/TiferetM/generate-trips
+
+
+🛠️ C# Task and Employee Management System
+Description: A desktop application for managing employees and tasks, designed to streamline operations for small businesses.
+Technologies: C#, .NET Framework, SQL Server.
+Features:
+Manage employee profiles and schedules.
+Assign, track, and organize tasks.
+Generate detailed reports on progress and performance.
+View Project
 https://github.com/TiferetM/dotNet5784_0825_4210
 
-Description: A desktop application designed for small businesses to manage inventory and generate reports.
-Technologies: C#, .NET Framework, SQL Server.
-Features: User-friendly interface, real-time inventory tracking, and report generation.
-View Project
 🏠 D HOME – 3D Social Network for Architects
-https://github.com/TiferetM/FullStackPRJ/tree/main
-
 Description: A platform for architects to share and explore 3D designs interactively, fostering collaboration and creativity.
 Technologies: React.js, Node.js, MongoDB, Three.js, AWS S3.
 Features:
 Upload and view interactive 3D designs.
 Personalized user profiles for showcasing projects.
 Dynamic search and collaboration tools.
-View Project
 
+
+View Project
+https://github.com/TiferetM/FullStackPRJ/tree/main
 
 🌐 Connect with Me
 💼 LinkedIn: https://www.linkedin.com/in/tiferet-maimon/?originalSubdomain=il
