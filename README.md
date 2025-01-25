@@ -1,6 +1,3 @@
-
-Here's an updated version of your README with the correct link included:
-
 Welcome to My GitHub 🌟
 Hi there! I'm Tiferet 👋
 I'm a Computer Science graduate and a passionate Full-Stack Developer, always eager to learn and build innovative solutions. My work combines creativity, problem-solving, and technical expertise to deliver impactful projects.
